@@ -1,0 +1,61 @@
+.klab-input{
+   height:40px;
+   width:50%;
+   border-top:none;
+   border-right: none;
+   border-left: none;
+   border-bottom-color:green;
+   border-bottom-right-radius: 10px;
+   border-bottom-left-radius: 10px;
+   border-top-left-radius:10px;
+   border-top-right-radius:10px;
+
+}
+.klab-input:hover{
+   border:2px solid green;
+    border-bottom-color:green;
+}
+.klab-login_form{
+    justify-content: center;
+    align-items: center;
+    margin-top:30px
+}
+.klab-button{
+    height:40px;
+   width:50%;
+   padding:10px; 
+   font-weight: 500px;
+   font-size: 20px;
+}
+.klab-input placeholder{
+    text-align: center;
+    margin-left:50px;
+}
+.klab-login{
+    background-color: white;
+    border: 2px green solid;
+    width:90vh;
+    height:60vh;
+    margin-top:50px;
+    border-radius:10px;
+    border-top-right-radius:90px ;
+    border-bottom-left-radius:100px ;
+    border-bottom-right-radius:20px ;
+    border-top-left-radius:20px ;
+      border-top-left-radius:20px ;
+  
+}
+.klab-register{
+
+    background-color: white;
+    border: 2px green solid;
+    width:100vh;
+    height:70vh;
+    margin-top:50px;
+    border-radius:10px;
+    border-top-right-radius:90px ;
+    border-bottom-left-radius:100px ;
+    border-bottom-right-radius:20px ;
+    border-top-left-radius:20px ;
+      border-top-left-radius:20px ;
+}

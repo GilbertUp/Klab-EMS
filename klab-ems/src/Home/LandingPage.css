@@ -1,0 +1,21 @@
+.klab-introduction{
+margin-top: 2vh;
+margin-left: 10vh;
+
+
+}
+.klab-heading1{
+    margin-left: 30vh;
+    font-family: Arial;
+    font-weight: 300px;
+
+}
+.klab-images{
+    float: left;
+    margin-left:30vh;
+    margin-top: 10vh;
+}
+.klab-products, .klab-products1, .klab-products2{
+    float: right;
+    margin-right:10vh;
+}
