@@ -1,0 +1,56 @@
+.klab-container{
+  position:fixed;
+  z-index: 2; 
+  /* background: wheat; */
+  
+ 
+  
+  
+  
+}
+.klab-logo{
+    float:left;
+    margin-right:115vh; 
+    margin-top:0vh;
+    color:green;
+    font-weight: 1000px;
+   font-family: Arial, Helvetica, sans-serif;
+   position:relative;
+   margin-left: 10vh;
+   font-size:30px;
+   
+   
+}
+.klab-loogod{
+    margin-top:-10px;
+}
+.klab-logo :hover{
+    color:blue;
+    
+}
+.klab-nav{
+    
+    float:right;
+    margin-right:-35vh;
+    margin-top:10px;
+    
+    
+   
+}
+.klab-list{
+    list-style:none;
+    font-size: 20px;
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    
+}
+.klab-list li{
+    padding:10px;
+}
+.klab-list li a:hover{
+    
+  
+    color: green;
+    font-weight:500px;
+}

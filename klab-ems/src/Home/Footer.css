@@ -1,0 +1,64 @@
+.footer-container{
+    background-color:white;
+    border: none;
+    margin-top:10vh;
+    height:50vh;
+    justify-content: center;
+    position:relative;
+   margin-top:30vh ;
+   position:relative;
+   background:rgb(59, 57, 57);
+    
+
+}
+.servises{
+    float:left;
+    margin-left:10vh;
+    margin-top:5vh;
+    position: relative;
+   
+
+}
+
+.heading, .headings{
+
+color:green;
+}
+.heading{
+    margin-left: 4vh;
+}
+.ser{
+    color:green;
+    display:block;
+   
+}
+.ser a{
+    display:block;
+    text-decoration:none;
+    padding:5px;
+}
+.contacts{
+    float:right;
+display:block;
+margin-left: 50vh;
+margin-top:5vh;
+}
+.contacts a {
+    display:block;
+    text-decoration:none;
+    padding:5px;
+}
+.adress {
+float: right;
+margin-left:50vh;
+margin-top: -14vh;
+}
+.adress-list li{
+      displaydisplay:block;
+      
+}
+.address ul li{
+    list-style-type:none;
+    color:green;
+    margin-right:100px;
+}
